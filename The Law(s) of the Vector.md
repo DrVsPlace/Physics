@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="the-laws-of-the-vector">The Law(s) of the Vector</h1>
 <h2 id="introduction">Introduction</h2>
 <p>A vector possesses two fundamental geometric attributes:</p>
