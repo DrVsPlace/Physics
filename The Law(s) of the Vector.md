@@ -1,49 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Law(s) of the Vector</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#the-laws-of-the-vector">The Law(s) of the Vector</a>
-<ul>
-<li><a href="#introduction">Introduction</a></li>
-<li><a href="#vector-identity">Vector Identity</a></li>
-</ul>
-</li>
-<li><a href="#first-law-of-the-vector">First Law of the Vector</a>
-<ul>
-<li><a href="#law-of-magnitude-invariance">Law of Magnitude Invariance</a></li>
-</ul>
-</li>
-<li><a href="#second-law-of-the-vector">Second Law of the Vector</a>
-<ul>
-<li><a href="#law-of-direction-invariance">Law of Direction Invariance</a></li>
-</ul>
-</li>
-<li><a href="#independence-of-magnitude-and-direction">Independence of Magnitude and Direction</a></li>
-<li><a href="#vector-constraint-principle">Vector Constraint Principle</a></li>
-<li><a href="#circular-motion">Circular Motion</a></li>
-<li><a href="#summary">Summary</a>
-<ul>
-<li></li>
-</ul>
-</li>
-</ul>
+---
 
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h1 id="the-laws-of-the-vector">The Law(s) of the Vector</h1>
+<h1 id="the-laws-of-the-vector">The Law(s) of the Vector</h1>
 <h2 id="introduction">Introduction</h2>
 <p>A vector possesses two fundamental geometric attributes:</p>
 <ol>
@@ -370,8 +330,3 @@ c-16-25.333-24-45-24-59z"></path></svg></span></span></span></span></span></span
 <p>The metric relation <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∥</mi><mi>A</mi><mi mathvariant="normal">∥</mi></mrow><annotation encoding="application/x-tex">\|A\|</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">∥</span><span class="mord mathnormal">A</span><span class="mord">∥</span></span></span></span></span> governs extent.</p>
 <p>The proportional relation <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mover accent="true"><mi>A</mi><mo>^</mo></mover></mrow><annotation encoding="application/x-tex">\hat{A}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.94677em; vertical-align: 0em;"></span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.94677em;"><span class="" style="top: -3em;"><span class="pstrut" style="height: 3em;"></span><span class="mord mathnormal">A</span></span><span class="" style="top: -3.25233em;"><span class="pstrut" style="height: 3em;"></span><span class="accent-body" style="left: -0.11111em;"><span class="mord">^</span></span></span></span></span></span></span></span></span></span></span> governs orientation.</p>
 
-    </div>
-  </div>
-</body>
-
-</html>
